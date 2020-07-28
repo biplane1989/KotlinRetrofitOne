@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">KotlinRetrofitOne</string>
+
+    <string name="api_key">YOUR API KEY HERE</string>
+</resources>
